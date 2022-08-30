@@ -46,5 +46,5 @@ jobs:
       with:
         token: ${{ secrets.TOKEN }}
         gist_id: 9916df1d2cff0aff8ec1921131eeed68
-        gist_file_name: config.json
-        file_path: ./AutoMihoyoBBS/config/config.json
+        gist_file_name: config.yaml
+        file_path: ./AutoMihoyoBBS/config/config.yaml
