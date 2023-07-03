@@ -24,7 +24,7 @@ jobs:
         python-version: 3.9
     - name: 获取代码
       run: |
-        git clone https://github.com/Womsxd/AutoMihoyoBBS --depth=1
+        git clone https://github.com/Wodlie/AutoMihoyoBBS --depth=1
 
     - name: 安装依赖
       run: |
